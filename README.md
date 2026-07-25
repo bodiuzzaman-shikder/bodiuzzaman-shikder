@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=800&color=4F97FF&center=true&vCenter=true&width=680&lines=Electrical+%26+Mechanical+Design+Engineer;R%26D+Researcher+%7C+SOLIDWORKS+Champion;Power+Systems+%7C+Robotics+%7C+Mechatronics" alt="Typing SVG" />
-
-# Md. Bodiuzzaman Shikder
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2b47,100:4F97FF&height=190&section=header&text=Md.%20Bodiuzzaman%20Shikder&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Electrical%20%26%20Mechanical%20Design%20Engineer%20%C2%B7%20R%26D%20Researcher&descSize=17&descAlignY=60&animation=fadeIn" alt="Md. Bodiuzzaman Shikder — Electrical & Mechanical Design Engineer" width="100%" />
 
 **Design Engineer (R&D) @ Adex Engineering Ltd. · Bangladesh**
 
