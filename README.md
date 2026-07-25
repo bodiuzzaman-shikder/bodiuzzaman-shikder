@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2b47,100:4F97FF&height=190&section=header&text=Md.%20Bodiuzzaman%20Shikder&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Electrical%20%26%20Mechanical%20Design%20Engineer%20%C2%B7%20R%26D%20Researcher&descSize=17&descAlignY=60&animation=fadeIn" alt="Md. Bodiuzzaman Shikder — Electrical & Mechanical Design Engineer" width="100%" />
+# Md. Bodiuzzaman Shikder
+
+### ⚡ Electrical & Mechanical Design Engineer · 🤖 R&D Researcher
 
 **Design Engineer (R&D) @ Adex Engineering Ltd. · Bangladesh**
 
@@ -92,12 +94,6 @@ I hold **five professional SOLIDWORKS certifications** (including **SOLIDWORKS C
 ---
 
 <div align="center">
-
-### 📊 GitHub Activity
-
-![Stats](https://github-readme-stats.vercel.app/api?username=bodiuzzaman-shikder&show_icons=true&hide=issues&theme=tokyonight&hide_border=true&title_color=4F97FF&icon_color=4F97FF)
-
----
 
 **Let's connect** — I'm open to graduate research and design-engineering opportunities worldwide.
 
