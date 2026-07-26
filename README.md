@@ -56,7 +56,6 @@ I hold **five professional SOLIDWORKS certifications** (including **SOLIDWORKS C
 
 **Programming & Fabrication**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/3D_Printing-222?style=for-the-badge&logoColor=white)
 ![CNC](https://img.shields.io/badge/CNC_·_Welding-555?style=for-the-badge&logoColor=white)
 
