@@ -76,6 +76,15 @@ I hold **five professional SOLIDWORKS certifications** (including **SOLIDWORKS C
 
 ---
 
+## 🧑‍💻 Engineering Repositories
+
+Real, runnable engineering tools and analysis — not just pictures:
+
+- **[⚡ transformer-ct-design-toolkit](https://github.com/bodiuzzaman-shikder/transformer-ct-design-toolkit)** — MATLAB tools for power-transformer & CT design (IEC 61869-2): core/turns sizing, tank plate thickness, knee-point verification, plus the design-software GUI.
+- **[🔬 engineering-fea-cfd-studies](https://github.com/bodiuzzaman-shikder/engineering-fea-cfd-studies)** — FEA/CFD validation studies (Mars Rover chassis, 20 MVA transformer tank) with loads, results and Factor-of-Safety checks.
+
+---
+
 ## 📜 Certifications
 
 - **CSWA** — Certified SOLIDWORKS Associate (Mechanical Design)
